@@ -5,7 +5,7 @@ Prosta aplikacja do tworzenia ankiet, stworzona przy użyciu Pythona i Django. G
 
 1. Skonluj repozytorium do siebie na swój komputer.
 2. W pliku db.sqlite3 utwórz tabele poll_poll (domyślnie jest, z jedną ankietą)
-3. Uruchom server przy użyciu komendy `py manage.py runserver
+3. Uruchom server przy użyciu komendy `py manage.py runserver`
 
 ## TODO
 
